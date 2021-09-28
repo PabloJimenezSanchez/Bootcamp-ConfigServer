@@ -1,3 +1,6 @@
+spring:
+  profiles:
+    active: produccion
 server:
   port: 8081
 some:
