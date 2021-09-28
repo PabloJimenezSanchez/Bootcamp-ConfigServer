@@ -1,12 +1,4 @@
-spring:
-  profiles:
-    active: produccion
 server:
   port: 8081
 some:
   value: valor del servidor
-management:
-  endpoints:
-    web:
-      exposure:
-        include: '*'
