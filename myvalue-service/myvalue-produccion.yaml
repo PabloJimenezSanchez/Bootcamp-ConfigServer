@@ -1,8 +1,4 @@
 server:
   port: 8081
 some:
-  value: valor del servidor en produccion
-spring:
-  config:
-    activate:
-      on-profile: produccion
+  value: valor del servidor en produccion 2
